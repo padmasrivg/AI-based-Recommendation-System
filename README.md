@@ -78,4 +78,5 @@ This project is a practical demonstration of artificial intelligence applied to 
 
 Output:
 
+
 ![Image](https://github.com/user-attachments/assets/1d276409-5969-4cd4-89bd-509f64409691)
